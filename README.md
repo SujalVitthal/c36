@@ -1,2 +1,2 @@
-# c36
-car game structing before code
+# synchronousBallMovement
+Ball moving synchronously
